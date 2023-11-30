@@ -16,8 +16,6 @@ This Python script combines face detection with a Christmas carol player. It uti
 - User Interface: Displays detected faces with rectangles and provides debug messages.
 - Merry Christmas Message: Displays a "Merry Christmas!" message while the carol is playing.
 <br>
-<br>
-
 3. Instructions<br>
 
 Requirements:
