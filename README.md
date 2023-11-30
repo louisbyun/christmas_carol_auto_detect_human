@@ -23,8 +23,8 @@ Requirements:
 <br>
 
 Installation:
-- Install the required libraries using:
-- pip install opencv-python pygame
+- Install the required libraries
+using: pip install opencv-python pygame
 <br>
 
 Usage:<br>
