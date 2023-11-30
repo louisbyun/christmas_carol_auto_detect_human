@@ -5,6 +5,8 @@ Christmas Face Detector and Carol Player
 This Python script combines face detection with a Christmas carol player. It utilizes the OpenCV library for face detection, Pygame for audio playback, and multithreading for a seamless user experience. The program detects faces through a USB camera and plays a Christmas carol when a face is detected. The carol plays for an extended duration, creating a festive atmosphere.<br>
 <br>
 
+![merry_christmas_auto_detect_sound (1)](https://github.com/louisbyun/christmas_carol_auto_detect_human/assets/55345082/7ffa2148-9762-4090-ad92-9c628aa82390)
+
 
 2. Features<br>
 
