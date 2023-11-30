@@ -27,20 +27,20 @@ Installation:
 - pip install opencv-python pygame
 <br>
 
-Usage:
+Usage:<br>
 - Replace 'carol.mp3' with the actual file path of your desired Christmas carol.
 - Adjust the camera resolution and window size as needed.
 - Run the script and enjoy the festive experience!
 <br>
 
-Copyright
+Copyright<br>
 © 2023 Louis Byun. All rights reserved.
 <br>
 
-License
+License<br>
 This project is licensed under the MIT License.
 <br>
 
-Acknowledgments
+Acknowledgments<br>
 Thanks to the OpenCV and Pygame communities for providing powerful libraries.
 Inspired by the festive spirit of Christmas!
